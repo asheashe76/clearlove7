@@ -28,3 +28,42 @@
 >>第二层文本引用
 >>> 第三层文本引用
 >>>> 第四层文本引用
+
+```bash
+sudo apt-get install git
+```
+
+```c
+#include <stdio.h>
+#incldue <stdlib.h>
+#include <unistd.h>
+
+int main()
+{
+	printf("c" 语言测试..\n);
+	return 0;
+}
+
+
+```
+
+
+```cpp
+#include<iostream>
+using namespace std;
+
+int main(void)
+{
+	cout<< "c++ 测试" <<endl;
+	return 0;
+}
+```
+```python
+import os
+
+def self_main()
+	file_list = os.listdir(backup.dir)
+	return file_list
+```
+
+
